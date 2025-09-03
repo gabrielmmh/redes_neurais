@@ -2,30 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hsandmann.github.io/documentation.template/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/projeto/main/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://hsandmann.github.io/documentation.template/exercises/01_data/data/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/roteiro1/main/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://hsandmann.github.io/documentation.template/template/projeto/main/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/roteiro2/main/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://hsandmann.github.io/documentation.template/template/roteiro1/main/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/roteiro3/main/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://hsandmann.github.io/documentation.template/template/roteiro2/main/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/roteiro4/main/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://hsandmann.github.io/documentation.template/template/roteiro3/main/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/thisdocumentation/main/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://hsandmann.github.io/documentation.template/template/roteiro4/limit.def/</loc>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://hsandmann.github.io/documentation.template/template/roteiro4/main/</loc>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://hsandmann.github.io/documentation.template/template/roteiro4/smc/</loc>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://hsandmann.github.io/documentation.template/template/thisdocumentation/main/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
 </urlset>
