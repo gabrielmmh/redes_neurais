@@ -15,3 +15,5 @@ numpy
 pandas
 yfinance
 scikit-learn
+kaggle
+nbstripout
