@@ -3,3 +3,10 @@ env/
 .cache/
 .vscode/
 target/
+# Build & caches
+site/
+.env
+env/
+.cache/
+__pycache__/
+.ipynb_checkpoints/
