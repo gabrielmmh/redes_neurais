@@ -147,4 +147,5 @@ nav:
 
   - Exercícios:
     - 01 — Dados e preparo: ./exercises/01_data/data.ipynb
+    - 02 — Dados e preparo: ./exercises/02_perceptron/perceptron.ipynb
 
