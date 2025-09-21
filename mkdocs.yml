@@ -135,16 +135,6 @@ extra_javascript:
 nav:
   - Home: index.md
 
-  - This documentation: ./template/thisdocumentation/main.md
-
-  - Roteiros:
-    - Roteiro 1: ./template/roteiro1/main.md
-    - Roteiro 2: ./template/roteiro2/main.md
-    - Roteiro 3: ./template/roteiro3/main.md
-    - Roteiro 4: ./template/roteiro4/main.md
-
-  - Projeto: ./template/projeto/main.md
-
   - Exercícios:
     - 01 — Preparação e Análise de Dados para Redes Neurais: ./exercises/01_data/data.ipynb
     - 02 — Entendendo Perceptrons e Suas Limitações: ./exercises/02_perceptron/perceptron.ipynb
