@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gabrielmmh.github.io/redes_neurais/</loc>
-         <lastmod>2025-09-21</lastmod>
+         <lastmod>2025-10-26</lastmod>
     </url>
     <url>
          <loc>https://gabrielmmh.github.io/redes_neurais/exercises/01_data/data/</loc>
-         <lastmod>2025-09-21</lastmod>
+         <lastmod>2025-10-26</lastmod>
     </url>
     <url>
          <loc>https://gabrielmmh.github.io/redes_neurais/exercises/02_perceptron/perceptron/</loc>
-         <lastmod>2025-09-21</lastmod>
+         <lastmod>2025-10-26</lastmod>
     </url>
     <url>
          <loc>https://gabrielmmh.github.io/redes_neurais/exercises/03_mlp/mlp/</loc>
-         <lastmod>2025-09-21</lastmod>
+         <lastmod>2025-10-26</lastmod>
+    </url>
+    <url>
+         <loc>https://gabrielmmh.github.io/redes_neurais/exercises/04_vae/vae/</loc>
+         <lastmod>2025-10-26</lastmod>
     </url>
 </urlset>
