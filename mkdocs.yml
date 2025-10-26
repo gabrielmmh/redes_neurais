@@ -139,4 +139,5 @@ nav:
     - 01 — Preparação e Análise de Dados para Redes Neurais: ./exercises/01_data/data.ipynb
     - 02 — Entendendo Perceptrons e Suas Limitações: ./exercises/02_perceptron/perceptron.ipynb
     - 03 — MLP: ./exercises/03_mlp/mlp.ipynb
+    - 04 — Variational Autoencoders (VAE): ./exercises/04_vae/vae.ipynb
 
