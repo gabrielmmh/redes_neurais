@@ -141,3 +141,6 @@ nav:
     - 03 — MLP: ./exercises/03_mlp/mlp.ipynb
     - 04 — Variational Autoencoders (VAE): ./exercises/04_vae/vae.ipynb
 
+  - Projetos:
+    - Projeto 3 — Modelos Generativos (Stable Diffusion + ControlNet): ./projects/generative/generative.ipynb
+
