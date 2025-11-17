@@ -39,9 +39,19 @@
 
 ## Projetos
 
+- [x] **Projeto 1 — Classificação (MABe Mouse Behavior)**
+  _Link:_ [caioboa.github.io/.../model](https://caioboa.github.io/DeepLearningPages/classification/model)
+  **Autores:** Caio Boa, Gabriel Hermida, Pedro Civita
+  **Modelo:** Classificação de comportamento de camundongos com deep learning usando dataset CalMS21.
+
+- [x] **Projeto 2 — Regressão (Bike Sharing Demand)**
+  _Link:_ [pedrocivita.github.io/projects/2](https://pedrocivita.github.io/projects/2/)
+  **Autores:** Caio Boa, Gabriel Hermida, Pedro Civita
+  **Modelo:** MLP para previsão de demanda de bicicletas compartilhadas. R²=0.88, RMSE=63.44.
+
 - [x] **Projeto 3 — Modelos Generativos (Stable Diffusion + ControlNet)**
   _Notebook:_ [`projects/generative/generative.ipynb`](./projects/generative/generative.ipynb)
+  **Autores:** Caio Boa, Gabriel Hermida, Pedro Civita
   **Pipeline:** Text-to-image com SD 1.5 + ControlNet Canny para controle espacial.
-  **Exemplos:** 5 designs de produtos (cadeiras, smartwatch, relógio, garrafa) com variação de parâmetros.
-  **Documentação:** Diagramas de arquitetura, análise de hiperparâmetros e otimizações de memória.
+  **Exemplos:** 5 designs de produtos com variação de parâmetros.
 
